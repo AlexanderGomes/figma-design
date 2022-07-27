@@ -16,8 +16,8 @@ a {
     left: 0;
     background: url('../img/shoe3.jpg');
     background-size: cover;
-    background-position-x: 20%;
-    background-position-y: 20%;
+    // background-position-x: 20%;
+    // background-position-y: 20%;
     width: 100%;
     height: 100vh;
     z-index: -1;
@@ -26,7 +26,6 @@ a {
 }
 
 .logo {
-    // color: white;
     font-weight: bold;
 }
 
